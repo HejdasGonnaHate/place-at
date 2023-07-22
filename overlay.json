@@ -4,12 +4,12 @@
   "contact": "",
   "templates": [
     {
-      "name": "<name>",
+      "name": "kfj",
       "sources": [
-        "<direct imgur link>"
+        "https://cdn.discordapp.com/attachments/1131826071277408346/1132368186952650783/IMG_0895.png"
       ],
-      "x": 0,
-      "y": 0
+      "x": -676,
+      "y": -74
     }
   ],
   "whitelist": [],
