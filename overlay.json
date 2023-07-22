@@ -1,0 +1,17 @@
+{
+  "faction": "/r/PlaceAustria",
+  "notifications": "",
+  "contact": "",
+  "templates": [
+    {
+      "name": "<name>",
+      "sources": [
+        "<direct imgur link>"
+      ],
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
