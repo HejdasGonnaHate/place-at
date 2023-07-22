@@ -4,12 +4,12 @@
   "contact": "",
   "templates": [
     {
-      "name": "tomturbo",
+      "name": "f1",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1132391341867946015/1132391360553558159/tomturbo5.png"
+        "https://cdn.discordapp.com/attachments/1131548308939231262/1132397400355504248/f1-car.png"
       ],
-      "x": 216,
-      "y": 450
+      "x": 138,
+      "y": 455
     }
   ],
   "whitelist": [],
