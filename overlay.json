@@ -4,14 +4,6 @@
   "contact": "",
   "templates": [
     {
-      "name": "f1",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131548308939231262/1132397400355504248/f1-car.png"
-      ],
-      "x": 138,
-      "y": 451
-    }
-    {
       "name":"kuss",
       "sources": [
         "https://i.imgur.com/fEs3kr1.png"
