@@ -11,6 +11,14 @@
       "x": 138,
       "y": 451
     }
+    {
+      "name":"kuss",
+      "sources": [
+        "https://i.imgur.com/fEs3kr1.png"
+      ],
+      "x":2,
+      "y":453
+    }
   ],
   "whitelist": [],
   "blacklist": []
